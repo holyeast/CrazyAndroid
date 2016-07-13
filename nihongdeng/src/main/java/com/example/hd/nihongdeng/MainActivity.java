@@ -18,6 +18,7 @@ public class MainActivity extends Activity {
             R.color.color4,
             R.color.color5,
             R.color.color6,};
+
     final int[] names = {
             R.id.view01,
             R.id.view02,
